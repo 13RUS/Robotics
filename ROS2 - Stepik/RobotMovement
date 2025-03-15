@@ -1,0 +1,22 @@
+def determine_direction(initial_direction, commands):
+    direction = initial_direction  # начальное направление
+    
+    left_turns = {'N': 'W', 'W': 'S', 'S': 'E', 'E': 'N'}
+    right_turns = {'N': 'E', 'E': 'S', 'S': 'W', 'W': 'N'}
+    
+    for cmd in commands:
+        if cmd == 'L':  # поворот налево
+            direction = left_turns[direction]
+        elif cmd == 'R':  # поворот направо
+            direction = right_turns[direction]
+        # F и B не меняют направление
+    
+    return direction
+
+# Ввод
+initial_direction = input().strip()
+commands = input().strip()
+
+# Вывод
+result = determine_direction(initial_direction, commands)
+print(result)
