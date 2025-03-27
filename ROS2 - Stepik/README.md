@@ -19,6 +19,8 @@
 
 
 #### 4.Управление скоростью робота
+[RobotSpeedСontrol.ipynb](https://github.com/13RUS/Robotics/blob/main/ROS2%20-%20Stepik/RobotSpeedСontrol.ipynb)
+
 <img width="364" alt="Screen Shot 2025-03-15 at 12 31 51" src="https://github.com/user-attachments/assets/512093fc-6ceb-4e7f-a694-8479ef45e3b2" />
 
 #### 5.Управление двумя роботами
