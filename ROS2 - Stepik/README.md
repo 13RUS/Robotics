@@ -1,4 +1,4 @@
-### ROS2 - Народный курс
+### ROS2
 
 #### 1.Определение направления движения робота
 [RobotDirection.ipynb](https://github.com/13RUS/Robotics/blob/main/ROS2%20-%20Stepik/RobotDirection.ipynb)
