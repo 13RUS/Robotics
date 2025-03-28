@@ -34,6 +34,8 @@
 <img width="653" alt="Screen Shot 2025-03-15 at 12 33 30" src="https://github.com/user-attachments/assets/887305d6-877c-4c5e-87be-c5b8d0ebaf64" />
 
 #### 7.Вычисление оптимального маршрута (учёт препятствий)
+[CalculatingOptimalRoute.ipynb](https://github.com/13RUS/Robotics/blob/main/ROS2%20-%20Stepik/CalculatingOptimalRoute.ipynb)
+
 <img width="678" alt="Screen Shot 2025-03-15 at 12 34 11" src="https://github.com/user-attachments/assets/e4436a5a-d06f-45b7-abf5-bd8fead03a7e" />
 
 #### 8.Распределение задач между роботами
