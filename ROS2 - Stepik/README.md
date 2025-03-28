@@ -29,6 +29,8 @@
 <img width="532" alt="Screen Shot 2025-03-15 at 12 32 51" src="https://github.com/user-attachments/assets/1cd4b41c-fc81-441d-94e9-54cd2f7e8485" />
 
 #### 6.Определение столкновения роботов
+[RobotCollisionDetection.ipynb](https://github.com/13RUS/Robotics/blob/main/ROS2%20-%20Stepik/RobotCollisionDetection.ipynb)
+
 <img width="653" alt="Screen Shot 2025-03-15 at 12 33 30" src="https://github.com/user-attachments/assets/887305d6-877c-4c5e-87be-c5b8d0ebaf64" />
 
 #### 7.Вычисление оптимального маршрута (учёт препятствий)
