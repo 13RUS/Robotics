@@ -39,6 +39,8 @@
 <img width="678" alt="Screen Shot 2025-03-15 at 12 34 11" src="https://github.com/user-attachments/assets/e4436a5a-d06f-45b7-abf5-bd8fead03a7e" />
 
 #### 8.Распределение задач между роботами
+[DistributionTasksBetweenRobots.ipynb](https://github.com/13RUS/Robotics/blob/main/ROS2%20-%20Stepik/DistributionTasksBetweenRobots.ipynb)
+
 <img width="687" alt="Screen Shot 2025-03-15 at 12 35 02" src="https://github.com/user-attachments/assets/09ff8931-96ff-462f-9c6d-a26079b443e9" />
 <img width="386" alt="Screen Shot 2025-03-15 at 12 35 18" src="https://github.com/user-attachments/assets/7a7a7ecb-35c4-4dc0-a8f6-b51f3e13bd02" />
 
