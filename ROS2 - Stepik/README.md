@@ -24,6 +24,8 @@
 <img width="364" alt="Screen Shot 2025-03-15 at 12 31 51" src="https://github.com/user-attachments/assets/512093fc-6ceb-4e7f-a694-8479ef45e3b2" />
 
 #### 5.Управление двумя роботами
+[ControlOfTwoRobots.ipynb](https://github.com/13RUS/Robotics/blob/main/ROS2%20-%20Stepik/ControlOfTwoRobots.ipynb)
+
 <img width="532" alt="Screen Shot 2025-03-15 at 12 32 51" src="https://github.com/user-attachments/assets/1cd4b41c-fc81-441d-94e9-54cd2f7e8485" />
 
 #### 6.Определение столкновения роботов
